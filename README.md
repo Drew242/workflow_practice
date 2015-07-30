@@ -1,2 +1,2 @@
 # workflow_practice
-practicing GitHub workflow
+Creating Merge Conflicts 
